@@ -1,1 +1,0 @@
-export { Gridview } from './table';
